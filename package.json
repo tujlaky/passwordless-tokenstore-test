@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "chance": "^1.0.1",
+    "jasmine-core": "^2.8.0",
     "node-uuid": "^1.4.7"
   },
   "author": "Tibor Ujlaky <tibor@builtwithheart.com>",
