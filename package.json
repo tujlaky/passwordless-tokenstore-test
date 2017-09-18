@@ -1,12 +1,12 @@
 {
   "name": "passwordless-tokenstore-test-jasmine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides a generic test suite for Passwordless TokenStore implementations with jasmine",
   "main": "index.js",
   "dependencies": {
     "chance": "^1.0.1",
     "jasmine-core": "^2.8.0",
-    "node-uuid": "^1.4.7"
+    "uuid": "^3.1.0"
   },
   "author": "Tibor Ujlaky <tibor@builtwithheart.com>",
   "license": "MIT",
