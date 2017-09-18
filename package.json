@@ -7,16 +7,16 @@
     "chance": "^1.0.1",
     "node-uuid": "^1.4.7"
   },
-  "author": "Florian Heinemann <florian.heinemann@gmail.com> (http://twitter.com/thesumofall)",
+  "author": "Tibor Ujlaky <tibor@builtwithheart.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/florianheinemann/passwordless-tokenstore-test.git"
+    "url": "https://github.com/tujlaky/passwordless-tokenstore-test.git"
   },
   "bugs": {
-    "url": "https://github.com/florianheinemann/passwordless-tokenstore-test/issues"
+    "url": "https://github.com/tujlaky/passwordless-tokenstore-test/issues"
   },
-  "homepage": "https://github.com/florianheinemann/passwordless-tokenstore-test",
+  "homepage": "https://github.com/tujlaky/passwordless-tokenstore-test",
   "keywords": [
     "passwordless",
     "nopassword",
