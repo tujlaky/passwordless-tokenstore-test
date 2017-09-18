@@ -1,12 +1,10 @@
 {
-  "name": "passwordless-tokenstore-test",
-  "version": "0.1.4",
-  "description": "Provides a generic test suite for Passwordless TokenStore implementations",
+  "name": "passwordless-tokenstore-test-jasmine",
+  "version": "0.0.1",
+  "description": "Provides a generic test suite for Passwordless TokenStore implementations with jasmine",
   "main": "index.js",
   "dependencies": {
-    "chai": "^3.5.0",
     "chance": "^1.0.1",
-    "mocha": "^2.4.5",
     "node-uuid": "^1.4.7"
   },
   "author": "Florian Heinemann <florian.heinemann@gmail.com> (http://twitter.com/thesumofall)",
