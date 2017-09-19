@@ -1,6 +1,6 @@
 {
   "name": "passwordless-tokenstore-test-jasmine",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Provides a generic test suite for Passwordless TokenStore implementations with jasmine",
   "main": "index.js",
   "dependencies": {
